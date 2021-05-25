@@ -15,4 +15,7 @@ A cursory glance at the Summary DataFrame reveals that urban city types yeild th
 There appears to be no noticeable trend when average fares are viewed by date with the possible exception of the week end 2/24/2019 which scores one of the two highest weeks for all three city types.  A deeper analysis of fare peaks roughly falling into the second half of the month across city types may suggest greater ride demand tied to monthly activities weighted towards the end of the month, but these findings are inconclusive.
 
 ## Summary: 
-
+In terms of possible advice, the following recommendations are proposed:
+1. Since average fare for rural rides are the most profitable, I would incentivize drivers to increase service to rural areas.
+2. I would propose increasing the number of drivers in suburban spaces.
+3. Finally, I would offer discounted rides towards the end of the month to encourage a trend that is already emerging.
