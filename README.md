@@ -12,9 +12,7 @@ A cursory glance at the Summary DataFrame reveals that urban city types yeild th
  
  ![PyBer_fare_summary](https://github.com/cortesh/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
  
- 
-
-s
+There appears to be no noticeable trend when average fares are viewed by date with the possible exception of the week end 2/24/2019 which scores one of the two highest weeks for all three city types.  A deeper analysis of fare peaks roughly falling into the second half of the month across city types may suggest greater ride demand tied to monthly activities weighted towards the end of the month, but these findings are inconclusive.
 
 ## Summary: 
 
