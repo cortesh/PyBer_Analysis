@@ -10,6 +10,9 @@ Conduct an analysis of PyBer car sharing ride data to discover trends.
  ![summary_dataframe](https://github.com/cortesh/PyBer_Analysis/blob/main/Resources/summary_dataframe.PNG)
  
  
+ ![PyBer_fare_summary](https://github.com/cortesh/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+ 
+ 
 
 
 
